@@ -1,5 +1,5 @@
 # CLEAVE
-Truly Ergonomic Cleave keyboard
+Truly Ergonomic CLEAVE Keyboard
 
 The current CLEAVE keyboard uses the MCU BYK816 and it is not compatible with QMK Firmware.
 
